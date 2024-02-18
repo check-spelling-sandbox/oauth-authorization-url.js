@@ -1,5 +1,6 @@
 # oauth-authorization-url.js
 
+
 > Universal library to retrieve GitHub’s identity URL for the OAuth web flow
 
 [![@latest](https://img.shields.io/npm/v/@octokit/oauth-authorization-url.svg)](https://www.npmjs.com/package/@octokit/oauth-authorization-url)
